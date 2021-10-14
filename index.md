@@ -1,24 +1,42 @@
 # Anirudh Potlapally
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+apotlapa@usce.edu | +1(408)-250-6630 | [LinkedIn](https://www.linkedin.com/in/anirudh-potlapally-30659a1ab/) | Santa Cruz, CA
 
-1. Numbered
-2. List
+## Course Work
+- Statistical Methods in Artificial Intelligence
+- Analysis of Algorithms
+- Distributed Systems
+- Digital Image Processing
+- Optimisation Methods
+- Computer Vision
 
-**Bold** and _Italic_ and `Code` text
+## Experience
+### Research Intern at International Institute of Information Technology, Hyderabad (July 2019-July 2021)
+#### Text recognition from Embossed On-Video Metadata obtained from UAVs
+ - Developed an end-to-end application to recognise text embossed on videos captured by UAVs.
+ - Created an annotation tool to extract frames from videos and generate groundtruth of the embossed characters.
 
-[Link](url) and ![Image](src)
-```
+#### Time Series Classification of Spatio-Temporal Satellite Data – A Deep Learning Experiment
+ - Performed an in-depth review on target areas of research and applications of Deep Learning in Remote Sensing.
+ - Researched  Time Series Analysis and Classification in Remote Sensing Imagery.
+ - Worked on understanding the history of the Land Use by analyzing Time Series of pixel intensities of common objects in Land Use & Land Cover (LULC) data and built models to classify them to automate the analysis.
+ - Data source: Enhanced Vegetation Index (EVI) imagery, obtained from Moderate Resolution Imaging Spectroradiometer (MODIS), NASA.
+- Created models for classifying time series using LSTM, GRU, Bidirectional LSTM, Bidirectional GRU, CNN-LSTM and 1DConvNets, and evaluated  the results.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Research Intern at National Remote Sensing Centre - Indian Space Research Organization (NRSC-ISRO) May 2018-July 2018 & Feb 2019-June 2019
 
-### Jekyll Themes
+#### Object Detection in Satellite Imagery for Multiple Resolutions and Sensors
+- Evaluated the performance of multiple Convolutional Neural Network (CNN) models such as Single Shot Detector, Fast R-CNN, YOLOV2 and Faster R-CNN.
+- Built a model using pre-trained “faster_rcnn_inception_v2” from Tensorflow’s Object Detection API and evaluated in accordance to the PASCAL VOC standards.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnirudhPotlapally/AnirudhPotlapally.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Instance Segmentation in Remote Sensing Imagery using Deep Convolutional Neural Networks                
+- Built a model for instance segmentation using Mask R-CNN.
+- Model tuning: 
+  - Compared different backbone extractors and selected ResNet101 for feature extraction.
+  - Performed selective training of each layer of the networks with appropriate learning rates.
+- Evaluated the model according to Common Objects in Context (COCO) standards.
 
-### Support or Contact
+## CONFERENCES AND PRESENTATIONS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- A. Potlapally, P. S. R. Chowdary, S. S. Raja Shekhar, N. Mishra, "Instance Segmentation in Remote Sensing Imagery using Deep Convolutional Neural Networks," 2019 International Conference on contemporary Computing and Informatics (IC3I), Singapore, 2019, pp. 117-120, doi: 10.1109/IC3I46837.2019.9055569.
+- Presented a poster on “Deep Learning Applications in Remote Sensing” to the Scientists of ISRO on 2nd July, 2019.
